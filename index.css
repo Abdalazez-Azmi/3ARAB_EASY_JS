@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+
+}
+
+.form{
+    background-color: white;
+    margin: 40px;
+    border-radius: 25px;
+    position: relative;
+
+
+}
+
+input{
+ height: 150px;
+ text-align: start;
+
+    width: 550px;
+    font-size: 25px;    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+button{
+width: 100px;
+height: 100px;
+margin-right: 150px;
+border-radius: 5px;
+background-color: white;
+font-size: 21px;
+
+}
+
+
+.inst{
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.title{
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+}
